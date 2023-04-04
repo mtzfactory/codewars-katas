@@ -1,3 +1,5 @@
+![Codewars Badge](https://www.codewars.com/users/mtzfactory/badges/large)
+
 # Codewars Katas
 
 Katas taken in [Codewars][codewars].
