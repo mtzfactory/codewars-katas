@@ -1,0 +1,22 @@
+{
+  "name": "codewars-katas",
+  "version": "1.0.0",
+  "author": "Ricardo Martinez <ricardo.martinez.monje@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest",
+    "test:changed": "yarn test --onlyChanged --watch"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "@types/node": "^18.15.11",
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "@typescript-eslint/parser": "^5.57.0",
+    "eslint": "^8.0.1",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.0.5",
+    "ts-node": "^10.9.1",
+    "typescript": "*"
+  }
+}
