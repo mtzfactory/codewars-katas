@@ -4,7 +4,8 @@
 
 Katas taken in [Codewars][codewars].
 
-1. [Human Readable Time](./src/human-readable-time/README.md)
-2. [Sum Of Parts](./src/sum-of-parts/README.md)
+1. [Human readable time](./src/human-readable-time/README.md)
+2. [Sum of parts](./src/sum-of-parts/README.md)
+3. [Give me a diamond](./src/give-me-a-diamond/README.md)
 
 [codewars]: https://www.codewars.com
